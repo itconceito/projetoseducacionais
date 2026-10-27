@@ -16,3 +16,13 @@ Projeto desenvolvido para a **Renalf S/A** focado na implementação e manipula�
 ---
 
 ## 🛠️ Como Executar no Terminal
+
+```bash
+# Entrar na pasta do projeto
+cd arvore_binaria
+
+# Compilar o código C
+gcc main.c -o programa
+
+# Executar o programa
+./programa
